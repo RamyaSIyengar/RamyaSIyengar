@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ramya</h1>
+<h3 align="center">A passionate Software QA <h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamyaSIyengar&label=Profile%20views&color=0e75b6&style=flat" alt="RamyaSIyengar" /> </p>
 
 
 # 💫 About Me:
