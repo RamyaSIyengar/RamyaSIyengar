@@ -14,7 +14,7 @@ React, JavaScript, Redux<br>
   
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **ramyaiyengar12@gmail.com**
-<a href="www.linkedin.com/in/ramya-s-57a13b179" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="rashmisoundar" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/ramya-s-57a13b179/">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
