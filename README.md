@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ramya</h1>
 <h3 align="center">A passionate Software QA <h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamyaSIyengar&label=Profile%20views&color=0e75b6&style=flat" alt="RamyaSIyengar" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="RamyaSIyengar" style="width: 100%; height: auto;/> </p>
+
 
 
 # 💫 About Me:
 React, JavaScript, Redux<br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rashmiiyengar&theme=onedark)](https://github-profile-trophy.vercel.app/?username=RamyaSIyengar)
 
+- 🌱 I’m currently Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
+
+- 📫 How to reach me **ramyaiyengar12@gmail.com**
+- 
+<h3 align="left">Connect with me:</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramya-iyengar-57a13b179/) 
 
